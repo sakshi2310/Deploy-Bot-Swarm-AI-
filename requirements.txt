@@ -1,0 +1,17 @@
+langchain
+langgraph
+langchain-community
+google-generativeai
+requests
+uvicorn
+fastapi
+langchain-google-genai
+langchain_ollama
+python-dotenv
+streamlit
+pytest
+crewai
+docker
+psutil
+huggingface_hub
+gitpython
